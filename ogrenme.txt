@@ -1,1 +1,1 @@
-yigitBayrak task
+yigitBayrak task // ( çatışma denemesi )
